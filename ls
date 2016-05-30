@@ -1,0 +1,59 @@
+<html>
+<head><title>龍祥時代電影台_節目宣傳活動</title>
+
+
+</head>
+<body></body>
+<h1>龍祥時代電影台_節目宣傳活動</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ms11mB4VWU4?rel=0&amp;showinfo=0" 
+
+frameborder="0" allowfullscreen></iframe>
+<p>
+<h2><p>龍祥時代電影台6月將播出「電影大幕後-《出神入化2》」節目，讓你一窺《出神入化2》的幕後拍攝花絮。還有「電影
+
+FUN映院」單元，完整放送院線電影預告及排行榜資訊。「龍祥推推」單元則是忠實觀眾絕不能錯過的，將專題介紹6月看你千
+
+變不厭倦「周星馳」系列電影。</p><p></p>除此之外，龍祥時代電影台更準備了好禮，要送給觀看節目的觀眾，只要在本活動
+
+頁面，回答節目中的通關密語就有機會獲得《出神入化2》電影交換卷超值好禮組(3名)，前30名回答通關密語的觀眾，還可以
+
+直接獲得《出神入化2》官方原版撲克牌唷。</h2>
+
+<h2><a href="http://www.lstime.com.tw/movie/data/435" target="blend">→節目播出時間</a></h2>
+<h2>我要填寫通關密語→6/10(六)-6/13(一)開放填寫</h2>
+<h2>現在只要參加節目宣傳活動，也有機會帶回《出神入化2》電影交換卷超值好禮組。</h2>
+<h2>活動時間：即日起至5/13(一)23:59止</h2>
+<h2>得獎公布：5/12(二)15:00</h2>
+<h2>贈品：
+<p>《出神入化2》超值好禮組 (電影交換券、帽子、T-Shirt) x 2名</p>
+</h2>
+<p>
+<h2>Step l：分享本活動</h2>
+<iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv
+
+%3DmZTQ0xLPmpY&layout=button_count&mobile_iframe=true&width=98&height=20&appId" width="98" height="20" 
+
+style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<p>
+
+<h2>Step 2：點讚加入龍祥時代電影台粉絲專頁</h2>
+<div><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FLSTIMEMOVIE
+
+%2F&tabs=timeline&width=360&height=70&small_header=true&adapt_container_width=true&hide_cover=true&show_facepil
+
+e=true&appId" width="360" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" 
+
+allowTransparency="true"></iframe></div>
+<p>
+<h2>Step 3：回答下列問題填並填寫參加資料</h2>
+<div>
+<iframe src="https://docs.google.com/forms/d/1MdnUPWISfkAG4Y-OmjukauI4QQrYYwjQtbkZyXpIG1Y/viewform?
+
+embedded=true" width="600" height="900" frameborder="0" marginheight="0" marginwidth="0">載入中…
+
+</iframe></div>
+
+
+
+
+</html>
